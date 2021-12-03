@@ -2,3 +2,4 @@
 * Angry Birds Classic
 * Angry Birds Seasons
 * Angry Birds Rio
+* Angry Birds Space
